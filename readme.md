@@ -1,4 +1,4 @@
-# 💸 Expense Tracker 2.0 - Insight-First Personal Finance
+# 💸 COINZO - Insight-First Personal Finance Assistant
 
 An intelligent, modern expense tracker that goes beyond simple logging. It features **"Money Wrapped"** stories, predictive insights, and spending personality analysis to help users understand their financial behavior.
 
