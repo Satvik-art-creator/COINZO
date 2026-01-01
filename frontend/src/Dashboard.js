@@ -473,15 +473,7 @@ const handleEditBudget = (b) => {
             <div className="greeting-card" style={{ position: 'relative' }}>
               <button 
                 onClick={() => setShowWrapped(true)}
-                style={{ 
-                    position: 'absolute', top: '20px', right: '20px', 
-                    background: 'linear-gradient(135deg, #6366f1, #8b5cf6)', 
-                    color: 'white', border: 'none', padding: '8px 15px', 
-                    borderRadius: '20px', cursor: 'pointer', fontWeight: 'bold',
-                    display: 'flex', alignItems: 'center', gap: '5px',
-                    boxShadow: '0 4px 6px rgba(0,0,0,0.1)',
-                    zIndex: 10
-                }}
+                className="play-wrapped-btn"
               >
                   <FaPlay size={12} /> Play Money Wrapped
               </button>
